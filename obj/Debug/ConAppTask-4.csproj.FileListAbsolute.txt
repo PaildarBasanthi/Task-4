@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.pdb
